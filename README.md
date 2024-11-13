@@ -53,7 +53,7 @@ Build the Docker image with the tag `logstash-veeam-syslog`:
 sudo docker build -t syslog-forwarder .
 ```
 
-### 6. Run the Docker Container
+### 5. Run the Docker Container
 
 Run the Docker container:
 
